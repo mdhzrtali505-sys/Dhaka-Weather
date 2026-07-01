@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Weather",
+  "description": "Dhaka weather tracker displaying real-time updates, air quality alerts, and powerful storm warnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
